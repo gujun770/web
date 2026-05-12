@@ -1,6 +1,6 @@
 # DeepResearch Agent Platform
 
-这是从 PDF 中复刻的 `DeepResearch 多 Agent 行业深度研究助手` 独立项目。
+这是 `DeepResearch 多 Agent 行业深度研究助手` 独立项目。
 
 项目入口：
 
