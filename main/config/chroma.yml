@@ -1,0 +1,12 @@
+collection_name: news_rag_collection
+persist_directory: chroma_db/news_rag
+chunk_size: 800
+chunk_overlap: 120
+separators:
+  - "\n\n"
+  - "\n"
+  - "。"
+  - "；"
+  - "，"
+  - " "
+  - ""
